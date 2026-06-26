@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on wmes.app<br>👯 I’m looking to collaborate on startrups/projects<br>🤝
+I’m currently working on wmes.app<br>I’m looking to collaborate on startrups/projects<br>
 
 
 # 💻 Tech Stack:
